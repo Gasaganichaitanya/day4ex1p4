@@ -1,0 +1,14 @@
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.exe
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.deps.json
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.runtimeconfig.json
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.dll
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppTwo.pdb
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfoInputs.cache
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.AssemblyInfo.cs
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.dll
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\refint\ConAppTwo.dll
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.pdb
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppTwo.genruntimeconfig.cache
+D:\mphasis\Phase4\Day4\Ex1\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ref\ConAppTwo.dll
